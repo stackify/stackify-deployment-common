@@ -3,7 +3,7 @@
 
 	<groupId>com.stackify</groupId>
 	<artifactId>stackify-deployment-common</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	
 	<name>Stackify Deployment Common</name>
 	<description>Stackify Deployment Common</description>
