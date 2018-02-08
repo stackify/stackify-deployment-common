@@ -1,8 +1,8 @@
 # stackify-deployment-common
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.stackify/stackify-deployment-common.svg)](http://mvnrepository.com/artifact/com.stackify/stackify-deployment-common)
-[![Build Status](https://travis-ci.org/stackify/stackify-deployment-common.png)](https://travis-ci.org/stackify/stackify-deployment-common)
-[![Coverage Status](https://coveralls.io/repos/stackify/stackify-deployment-common/badge.png?branch=master)](https://coveralls.io/r/stackify/stackify-deployment-common?branch=master)
+[![Build Status](https://travis-ci.org/stackify/stackify-deployment-common.svg?branch=master)](https://travis-ci.org/stackify/stackify-deployment-common)
+[![Coverage Status](https://coveralls.io/repos/github/stackify/stackify-deployment-common/badge.svg?branch=master)](https://coveralls.io/github/stackify/stackify-deployment-common?branch=master)
 
 API for sending deployment requests to Stackify.
 
